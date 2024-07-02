@@ -66,7 +66,7 @@ The dataset used contains the following columns:
 
 3. Install dependencies:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn jupyter-lab
+   pip install -r requirements.txt
    ```
 
 4. Start Jupyter Lab:
@@ -150,7 +150,7 @@ O conjunto de dados utilizado contém as seguintes colunas:
 
 3. Instale as dependências:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn jupyter-lab
+   pip install -r requirements.txt
    ```
 
 4. Inicie o Jupyter Lab:
