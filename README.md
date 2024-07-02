@@ -50,7 +50,7 @@ O conjunto de dados utilizado contém as seguintes colunas:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn jupyter-lab
    ```
-3. Abra inicie o Jupyter lab
+3. Inicie o Jupyter lab
    ```bash
    jupyter lab
    ```
